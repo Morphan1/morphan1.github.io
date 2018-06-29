@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.site-header {
+  background-color: #0064ab;
+  border-top: 0px;
+}
+
 .site-title, .site-title:visited {
-  color: #00bfff;
+  color: #ffffff;
 }
 
 .post-link {
