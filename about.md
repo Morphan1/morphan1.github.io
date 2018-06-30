@@ -1,19 +1,23 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: About
+permalink: /about
 ---
 
-Hi! I'm Morphan1, the owner of this website, and I guess I'll just put my life story here for now.<br>
-I enjoy programming in my spare time. I started getting into it circa 2011, when I started fiddling with HTML and JavaScript.<br><br>
-In 2013, I found myself trying to start a small Minecraft server mainly for my friends and I.<br>
-I managed to throw together a Bukkit server (the most recommended brand back then) and decided to see what I could add to it.<br><br>
-With no knowledge of Java or any other true programming language, I searched for a plugin that allowed scripting.<br>
-This lead me to a fantastic plugin called [Denizen](http://dev.bukkit.org/bukkit-plugins/denizen/), which in turn lead me to the amazingly helpful IRC channel on EsperNet so I could learn what to do.<br><br>
-After a while of Denizen scripting, dScripting if you will, I hit a few walls and felt the urge to get involved with the programming of the plugin.<br>
-The plugin's creator and former project leader known as aufdemrand helped me with getting started...<br>
-For the longest time, most of what I coded in Java was useless or broken or both. But as I slowly learned from my mistakes, I got better and better.<br><br>
-Soon, aufdemrand sadly began to disappear and was succeeded by [an excellent programmer named mcmonkey](http://mcmonkey.org/).<br>
-Now here we are. It's 2016 and the Denizen project is a powerhouse with [tens of thousands of lines of code](https://github.com/DenizenScript/Denizen-For-Bukkit).<br><br>
-I've learned C# and become pretty awesome at working with deeply obfuscated code, which generally makes normal programming a cakewalk.<br><br><br>
-**TL;DR**: [I'm an experienced developer](https://github.com/Morphan1).
+#### Who is Morphan1?
+I am *Connor Branan*, better known as Morphan1 --- a professional programmer and COO (Chief Operating Officer) of the video game design and software engineering startup [Frenetic LLC].
+
+In 2011, I became interested in web design and learned the basics of HTML and JavaScript. Not too long after, I made my first ambitious attempt at creating a multiplayer game within the browser. It used a [Node.js](https://nodejs.org/en/) backend with scripts I had crafted myself.
+
+Two years later, I joined an IRC chat for a Minecraft server-side scripting plugin called [Denizen](https://github.com/DenizenScript/Denizen-For-Bukkit). Fascinated by the plugin's open source Java code and eager to learn, it was here that I finally took up programming as a true hobby. After a while of occasional contributions --- some better than others --- to the plugin, as well as its (affectionately named) IRC bot [spazzmatic](https://github.com/Jeebiss/spazz/), I officially joined the Denizen team.
+
+As part of that team, I learned the ins and outs of OOP (Object-Oriented Programming) and formed lasting bonds with members of the community. Since then, I've become experienced with both Java and C# --- though I heavily prefer the latter.
+<br><br>
+#### What's Next?
+I'm currently teaching myself C++ as well as reverse engineering skills by way of modding games. As COO of [Frenetic LLC], I'm constantly working on private codebases that will eventually be released for the enjoyment of all.
+
+If there's one thing I've learned from my experiences, it's that you never stop learning in this field. No matter how much you think you know, there will always be more to learn. That's what makes it so fun.
+
+As someone who can never have too many projects, I'm always willing to consider independent opportunities. If you'd like to work with me, please send an email to <morphanone@gmail.com>. I can guarantee I'll make it work and hopefully learn something new in the process.
+
+[Frenetic LLC]: https://freneticllc.com/
