@@ -12,6 +12,14 @@
   color: #ffffff;
 }
 
+.site-nav .page-link {
+  color: #ffffff;
+  
+  @include media-query($on-palm) {
+    color: #000000;
+  }
+}
+
 .post-link {
   font-size: 42px;
 }
